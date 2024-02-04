@@ -1,0 +1,16 @@
+{
+  "name": "ratata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ratata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
